@@ -1,0 +1,10 @@
+D:\inf328\examen2\WindowsFormsConsumirNet\WindowsFormsConsumirNet\bin\Debug\WindowsFormsConsumirNet.exe.config
+D:\inf328\examen2\WindowsFormsConsumirNet\WindowsFormsConsumirNet\bin\Debug\WindowsFormsConsumirNet.exe
+D:\inf328\examen2\WindowsFormsConsumirNet\WindowsFormsConsumirNet\bin\Debug\WindowsFormsConsumirNet.pdb
+D:\inf328\examen2\WindowsFormsConsumirNet\WindowsFormsConsumirNet\obj\Debug\WindowsFormsConsumirNet.csprojAssemblyReference.cache
+D:\inf328\examen2\WindowsFormsConsumirNet\WindowsFormsConsumirNet\obj\Debug\WindowsFormsConsumirNet.Form1.resources
+D:\inf328\examen2\WindowsFormsConsumirNet\WindowsFormsConsumirNet\obj\Debug\WindowsFormsConsumirNet.Properties.Resources.resources
+D:\inf328\examen2\WindowsFormsConsumirNet\WindowsFormsConsumirNet\obj\Debug\WindowsFormsConsumirNet.csproj.GenerateResource.cache
+D:\inf328\examen2\WindowsFormsConsumirNet\WindowsFormsConsumirNet\obj\Debug\WindowsFormsConsumirNet.csproj.CoreCompileInputs.cache
+D:\inf328\examen2\WindowsFormsConsumirNet\WindowsFormsConsumirNet\obj\Debug\WindowsFormsConsumirNet.exe
+D:\inf328\examen2\WindowsFormsConsumirNet\WindowsFormsConsumirNet\obj\Debug\WindowsFormsConsumirNet.pdb
